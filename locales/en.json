@@ -1,8 +1,0 @@
-{
-    "Email_exists" : "already has an account, try with another email",
-    "acoount_create_success": "Account created successfully",
-    "Account verification complete": "Account verification complete",
-    "Account verification failed": "Account verification failed",
-    "Verification link expired": "Verification link expired",
-    "Invalid verification link": "Invalid verification link"
- }
